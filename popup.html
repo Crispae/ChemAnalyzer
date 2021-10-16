@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>ChemStalker</title>
+    <meta name="description" content="A minimal smiles drawer example." />
+    <meta http-equiv="Content-Security-Policy" 
+          content="script-src 'self' 'unsafe-eval' 'unsafe-inline' * ;">
+    <link href="popup.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="page">
+
+            <div class="nav-bar">
+              <ul>
+                <li>
+                  <img class="logo"src="logos/logo.png" alt="">
+                </li>
+                <li class="name">ChemAnalyzer</li>
+              </ul>
+            </div>
+            <div class="input">
+              
+              <label for= "example-input"><b>Molecule</b></label>
+              <input id="example-input" size="30" name="example-input" />
+              
+            </div>
+
+            <!--Canvas for drawing 2d molecule-->
+            <div class="canvas" id="can">
+              <canvas id="example-canvas" ></canvas>
+            </div>
+
+            <!--Div for 3d molecule-->
+            <div id="twirler" height="300" width="365"></div>
+            
+            <!--Div for showing error occured-->
+            <div id="info" style="display: none;"></div>
+          
+            
+
+            <div class="mol_info">
+              <div class="btn">
+                <button id="2d_btn">  2D  </button>
+                <button id="3d_btn">  3D  </button>
+              </div>
+                  <div > Molecular weight:
+                    <span id="exactmw" > N/A</span>
+                  </div>
+                  <div> LogP:
+                    <span id="CrippenClogP"> N/A</span>
+                  </div>
+                  <div>TPSA:
+                    <span id="tpsa"> N/A</span>
+                  </div>
+                  <div>Aromatic Ring:
+                    <span id= "NumAromaticRings"> N/A</span>
+                  </div>
+                  <div> HBD:
+                    <span id="NumHBD"> N/A</span>
+                  </div>
+                  <div> HBA:
+                    <span id="NumHBA"> N/A</span>
+                  </div>
+            </div>
+
+            <div class="footer">
+              <div class="social-media">
+                <ul class="icons">
+                  <li><a href="https://www.instagram.com/sauravkumar459/" target="_blank"><img class="icon" src="logos/instagram.png"></a></li>
+                  <li><a href="www.linkedin.com" target="_blank"><img class="icon" src="logos/linkedin.png"></a></li>
+                  <li><a href="https://twitter.com/@sauravk76534078" target="_blank"><img class="icon" src="logos/twitter.png"></a></li>
+                  <li><a href="https://github.com/Crispae" target="_blank"><img class="icon" src="logos/github.png"></a></li>
+                </ul>
+              </div>
+              <footer>Open Source(MIT License)</small> </footer>
+            </div>
+
+    </div>
+<script src="main/RDKit_minimal.js"></script>
+<script src="main/load.js"></script>
+<script src="main/smiles_draw.js"></script>
+<script src="popup.js"></script>
+<script src="main/3d.js"></script>
+  </body>
+</html>
+

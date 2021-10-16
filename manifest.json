@@ -1,0 +1,35 @@
+{"manifest_version":2,
+ "name": "ChemAnalyzer",
+ "description": "Provide detailed information about selected chemical molecule",
+ "version": "1.0",
+ "author":"saurav kumar",
+ "content_security_policy": "script-src 'self' https://cactus.nci.nih.gov/ 'unsafe-eval' * ;",
+ "browser_action":
+ {
+     "default_icon":"logos/logo.png",
+     "default_popup":"popup.html"
+ },
+
+ "icons":{
+     "16":"logos/logo.png"
+ },
+
+
+ "background":{
+     "scripts":["event.js"],
+     "persistent":false
+ },
+
+ "permissions":[
+     "contextMenus",
+     "tabs",
+     "activeTab",
+     "storage"
+ ]
+
+ 
+
+}
+ 
+
+
