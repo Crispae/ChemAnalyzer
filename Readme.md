@@ -103,19 +103,24 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+A lot of feature to be implemented in this project
+* 3D molecule annotation
+* AI implementation for predicting properties
+* Molecule nomenclature using IUPAC 
+
+Feel free to suggest new ideas and feature, any contribution and suggestion is welcome 😇😇
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Science is a field of community work, let put together our effort and makes science more interesting, Any contribution either in **issue** or **enhancement** and **improvement** in code base is **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/AddFeature`)
+3. Commit your Changes (`git commit -m 'Add some Features'`)
+4. Push to the Branch (`git push origin feature/AddFeature`)
 5. Open a Pull Request
 
 
@@ -130,9 +135,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@sauravk76534078](https://twitter.com/sauravk76534078)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Crispae/ChemAnalyzer](https://github.com/Crispae/ChemAnalyzer)
 
 
 
