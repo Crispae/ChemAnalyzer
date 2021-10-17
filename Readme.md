@@ -97,8 +97,10 @@ git clone https://github.com/Crispae/ChemAnalyzer.git
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+<p>
+<img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/Demo/Animation.gif" height="400">
 
-![Demo-gif](https://github.com/Crispae/ChemAnalyzer/blob/Main/Demo/Animation.gif)
+</p>
 
 
 
