@@ -58,6 +58,11 @@
 
 
 
+</p>
+
+
+
+
 Analyzing molecule is too hectic when you have to open multiple tabs for anlayzing structure, properties and many more, In a day to day life of researchers analyzing molecule is a common task, This tool helps in analyzing molecule just under one tab.
 
 
