@@ -53,7 +53,7 @@
 
 <p>
   <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen1.PNG" width="300" height="350">
-  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen2.PNG" width="300" height="350" style=" float: left;">
+  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen2.PNG" width="300" height="350" style="float:left">
 
 
 
