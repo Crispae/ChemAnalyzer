@@ -96,7 +96,7 @@ git clone https://github.com/Crispae/ChemAnalyzer.git
 5. Extension is added in chrome, pin it and enjoy 😎
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Demo
 <p>
 <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/Demo/Animation.gif" height="400">
 
