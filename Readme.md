@@ -52,9 +52,8 @@
 ## About The Project
 
 <p>
-  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen1.PNG" width="200" height="250">
-  <br>
-  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen2.PNG" width="200" height="250">
+  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen1.PNG" width="300" height="250">
+  <img src="https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen2.PNG" width="300" height="250">
 
 
 
