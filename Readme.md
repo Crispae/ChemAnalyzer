@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ChemAnalyzer](https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/logo.png)
+![ChemAnalyzer](https://github.com/Crispae/ChemAnalyzer/blob/Main/logos/screen1.png)
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
