@@ -148,9 +148,11 @@ Project Link: [https://github.com/Crispae/ChemAnalyzer](https://github.com/Crisp
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Rdkit](https://www.rdkit.org/)
+* [Vanilla JavaScript](https://www.javascript.com/)
+* [SmilesDrawer](https://github.com/reymond-group/smilesDrawer)
+* [TwirlyMol](https://cactus.nci.nih.gov/blog/?tag=twirlymol)
+
 
 
 
