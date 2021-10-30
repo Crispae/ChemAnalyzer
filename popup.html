@@ -8,6 +8,7 @@
     <meta http-equiv="Content-Security-Policy" 
           content="script-src 'self' 'unsafe-eval' 'unsafe-inline' * ;">
     <link href="popup.css" rel="stylesheet"/>
+    <script src="main/JSmol.lite.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" />
   </head>
   <body>
@@ -36,8 +37,10 @@
             <!--Div for 3d molecule-->
             <div id="twirler" height="300" width="365"></div>
             
-            <!--Div for showing error occured-->
-            <div id="info" style="display: none;"></div>
+            <!--Div for showing loading -->
+            <div id="loader" style="display: none;">
+              <img src="logos/loader.gif">
+            </div>
           
             
 
@@ -84,6 +87,7 @@
 <script src="main/smiles_draw.js"></script>
 <script src="popup.js"></script>
 <script src="main/3d.js"></script>
+
   </body>
 </html>
 

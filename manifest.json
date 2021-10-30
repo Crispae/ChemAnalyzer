@@ -1,9 +1,9 @@
 {"manifest_version":2,
  "name": "ChemAnalyzer",
- "description": "Provide detailed information about selected chemical molecule",
- "version": "1.0",
+ "description": "Provide detailed information about selected chemical molecule come up with own server for conversion to 3D cordinate",
+ "version": "1.1",
  "author":"saurav kumar",
- "content_security_policy": "script-src 'self' https://cactus.nci.nih.gov/ 'unsafe-eval' * ;",
+ "content_security_policy": "script-src 'self' http://127.0.0.1/ 'unsafe-eval' * ;",
  "browser_action":
  {
      "default_icon":"logos/logo.png",
