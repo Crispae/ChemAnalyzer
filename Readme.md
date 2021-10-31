@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@sauravk76534078](https://twitter.com/sauravk76534078)
+[@sauravk76534078](https://twitter.com/sauravk76534078)
 
 Project Link: [https://github.com/Crispae/ChemAnalyzer](https://github.com/Crispae/ChemAnalyzer)
 
